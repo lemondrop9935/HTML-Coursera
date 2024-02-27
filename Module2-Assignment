@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KS Module 2 Solution</title>
+    <link rel="module2stylesheet" href="Module2-Assignment/css">
+</head>
+<body>
+    <h1>PORTFOLIO</h1>
+    <p>I am testing the style sheet</p>
+<img id="wadirum" src="wadirum.jpg" alt="Wadi Rum">
+<div>
+    <div></div>
+    <div></div>
+    <div></div>
+</div>
+</body>
+</html>
