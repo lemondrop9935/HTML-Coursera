@@ -7,4 +7,4 @@
 # Once I fixed this issue, the titles went underneath. I don't know how to fix it.
 # Please help if you can!
 
-#Thank you!
+# Thank you!
