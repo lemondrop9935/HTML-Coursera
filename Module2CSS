@@ -1,4 +1,4 @@
-/* styling */
+# Styling
 
 body {
     background-color: rgb(214, 203, 179);
@@ -97,7 +97,7 @@ h1 {
 }
 
 
-/* Responsive layout */
+# Responsive layout
 
 .row {
     width: 100%;
