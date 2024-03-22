@@ -7,6 +7,6 @@
     console.log(speakWord + " " + name);
   };
 
-  window.byeSpeaker = byeSpeaker; // Expose to global scope
+  window.byeSpeaker = byeSpeaker; 
 
 })();
