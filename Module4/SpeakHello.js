@@ -9,4 +9,4 @@
 
   window.helloSpeaker = helloSpeaker;
 
-})();
+})(window);
